@@ -1,2 +1,2 @@
 # Java
-Java_Exam
+Please read the documentation.
